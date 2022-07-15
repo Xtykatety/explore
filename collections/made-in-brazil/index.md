@@ -20,7 +20,7 @@ items:
   - BrasilAPI/BrasilAPI
   - alt-art/commit
 display_name: Made in Brazil
-created_by: caarlos0
+created_by: xtykatety
 image: made-in-brazil.png
 ---
 Open source projects built in or receiving significant contributions from Brazil :brazil:
